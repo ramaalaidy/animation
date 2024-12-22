@@ -1,0 +1,15 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: rama;
+    animation-duration: 4s;
+  }
+  
+  @keyframes rama {
+    from {
+        background-color: red;}
+
+    to {
+        background-color: rgb(15, 190, 9);}
+  }

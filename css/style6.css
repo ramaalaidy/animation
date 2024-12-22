@@ -1,0 +1,17 @@
+.main{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+img{
+    width:500px;
+}
+.faded{
+    opacity: 0.5;
+    position: absolute;
+    
+}
+.first{
+    transform: rotate(20deg);
+    transform-origin: right bottom;
+}
